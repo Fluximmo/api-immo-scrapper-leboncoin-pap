@@ -1,5 +1,5 @@
 # API de flux immobilier 🏡
-## Scraper LEBONCOIN, PAP, SELOGER, EXPLORIMMO, LOGICIMMO, MEILLEURSAGENTS.
+## LeBonCoin, PAP, SeLoger, Explorimmo, Logic-immo, MeilleursAgents
 
 ✅ Spider Scrappy de la V1 de Fluximmo [DEPRECATED].
 
@@ -7,7 +7,8 @@
 
 ### ➡️ Documentation: [https://api.fluximmo.com/](https://api.fluximmo.com/)
 
-# Fluximmo, créez des services innovants grâce au flux d'annonces immo en temps réel
+
+# Fluximmo, créer des services innovants grâce au flux d'annonces immo en temps réel
 
 ### Une expertise batî sur le terrain
 Nous nous sommes lancés en Septembre 2017 avec appartenir.com, un service de recherche immobilière. Nous avons donc conçus et construit ce système d'aggrégation d'annonces pour être le plus exhaustif, le plus rapide & le plus précis. Après plusieurs mois de service et d'amélioration continue et grâce aux retours de nos utilisateurs, le système est prêt et testé à grande échelle.
