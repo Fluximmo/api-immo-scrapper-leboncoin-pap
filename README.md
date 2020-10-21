@@ -3,9 +3,9 @@
 
 ✅ Spider Scrappy de la V1 de Fluximmo [DEPRECATED].
 
-✅ V2 accessible en privée: [Fluximmo.com](https://fluximmo.com) ou contact@fluximmo.com
+✅ V2 accessible en privée: [fluximmo.com](https://fluximmo.com) ou contact@fluximmo.com
 
-### ➡️ Documentation: [https://api.fluximmo.com/](https://api.fluximmo.com/)
+### ➡️ Documentation: [api.fluximmo.com](https://api.fluximmo.com/)
 
 
 # Fluximmo, créer des services innovants grâce au flux d'annonces immo en temps réel
