@@ -2,7 +2,7 @@
 
 ✅ Spider Scrappy de la V1 de Fluximmo [DEPRECATED].
 
-✅ V2 accessible en beta privée: [Fluximmo.com](fluximmo.com) ou contact@fluximmo.com
+✅ V2 accessible en beta privée: [Fluximmo.com](https://fluximmo.com) ou contact@fluximmo.com
 
 ### ➡️ Documentation: [https://api.fluximmo.com/](https://api.fluximmo.com/)
 
