@@ -1,6 +1,9 @@
 # API de flux immobilier 🏡
 ## LeBonCoin, PAP, SeLoger, Explorimmo, Logic-immo, MeilleursAgents
 
+Les versions de spiders sur de github sont ceux de ntore v1, ils ont besoin pour certains d'être ajustés aux éventuels changement.
+Pour toutes questions, n'hésitez pas à nous contacter sur : [contact@fluximmo.com](mailto:contact@fluximmo.com?subject=[GitHub]%20Hello%20From%20Repo)
+
 ✅ Spider Scrappy de la V1 de Fluximmo [DEPRECATED].
 
 ✅ V2 accessible en privée: [fluximmo.com](https://fluximmo.com) ou contact@fluximmo.com
