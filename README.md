@@ -1,10 +1,17 @@
-# API de flux immobilier 🏡: Scraper LEBONCOIN, PAP, SELOGER, EXPLORIMMO, LOGICIMMO, MEILLEURSAGENTS.
+# API de flux immobilier 🏡
+## Plus de 20 portails immobiliers: LeBonCoin, PAP, Explorimmo, MeilleursAgents
 
-✅ Spider Scrappy de la V1 de Fluximmo.
-✅ V2 accessible en beta privée: Fluximmo.com
+Les versions de spiders sur de github sont ceux de ntore v1, ils ont besoin pour certains d'être ajustés aux éventuels changement.
+Pour toutes questions, n'hésitez pas à nous contacter sur : [contact@fluximmo.com](mailto:contact@fluximmo.com?subject=[GitHub]%20Hello%20From%20Repo)
 
-# Fluximmo
-## L'API de l'immobilier: Créez des services innovants grâce à notre flux d'annonces immobilières en temps réel !
+✅ Spider Scrappy de la V1 de Fluximmo [DEPRECATED].
+
+✅ V2 accessible en privée: [fluximmo.com](https://fluximmo.com) ou contact@fluximmo.com
+
+### ➡️ Documentation: [api.fluximmo.com](https://api.fluximmo.com/)
+
+
+# Fluximmo, créer des services innovants grâce au flux d'annonces immo en temps réel
 
 ### Une expertise batî sur le terrain
 Nous nous sommes lancés en Septembre 2017 avec appartenir.com, un service de recherche immobilière. Nous avons donc conçus et construit ce système d'aggrégation d'annonces pour être le plus exhaustif, le plus rapide & le plus précis. Après plusieurs mois de service et d'amélioration continue et grâce aux retours de nos utilisateurs, le système est prêt et testé à grande échelle.
